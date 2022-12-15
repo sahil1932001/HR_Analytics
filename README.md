@@ -12,4 +12,6 @@ Decision Trees use Gini Index or Entropy to find out how pure a node is(purity).
 after this I perform some hyperparameter tuning like grid search to improve the accuracy we get accuracy of 80% which is good enough. then plotted roc curve.
 Then i loaded the model and made web application using streamlit and deployed it on heroku.
 
-application link : https://hranalytics193.herokuapp.com/
+application link : https://sahil1932001-hr-analytics-app-wuabge.streamlit.app/
+
+https://hranalytics193.herokuapp.com/
