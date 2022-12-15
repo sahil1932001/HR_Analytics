@@ -1,8 +1,6 @@
 # HR_Analytics
 
-## problem statement:
-I have a data of company named abc.in that company every year around 15% of its employees leave the company.
-so I have to analyze why its happening what is the reason behind it.
+## problem statement: I have a data of company named abc. in that company every year around 15% of its employees leave the company. so I have to analyze why its happening what is the reason behind it.
 
 So for this project I got 4 csv files containing different data of employees.
 the challenging part is to understand the data and cleaning the data because data needs so much cleaning.so I imported all the files and done EDA and concatenate all files.
