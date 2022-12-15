@@ -14,4 +14,3 @@ Then i loaded the model and made web application using streamlit and deployed it
 
 application link : https://sahil1932001-hr-analytics-app-wuabge.streamlit.app/
 
-https://hranalytics193.herokuapp.com/
