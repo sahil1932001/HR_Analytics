@@ -9,7 +9,7 @@ Our data has categorical values but we cannot pass categorical values to our mod
 then we standardize the features that needed to be standardize so for model building we choose the classification model that gives highest accuracy so decision tree gives me the highest accuracy so i choosed decision tree.
 Decision Trees use Gini Index or Entropy to find out how pure a node is(purity). so i Define a function to calculate gini index then i done cross validation to avoid overfitting.
 after this I perform some hyperparameter tuning like grid search to improve the accuracy we get accuracy of 80% which is good enough. then plotted roc curve.
-Then i loaded the model and made web application using streamlit and deployed it on heroku.
+Then i loaded the model and made web application using streamlit and deployed it on streamlit.io.
 
 application link : https://sahil1932001-hr-analytics-app-wuabge.streamlit.app/
 
