@@ -100,7 +100,7 @@ if st.button("Predict"):
     st.success('The output is {}'.format(pred))
     
     if pred == 0:
-        st.write('***The output is No***')
+        st.write('***Employee will not leave the company***')
     else:
-        st.write('***The output is Yes***')
+        st.write('***Employee will leave the company***')
         
